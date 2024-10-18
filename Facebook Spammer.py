@@ -10,13 +10,13 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # ------------------  USER INPUT  ------------------ #
 
-email_id = ''
-password = ''
+email_id = eonsantos2008@gmail.com
+password = akosieon213
 
-page_link = ''
-number_of_times = 
-frequency = 
-message = ""
+page_link = https://www.facebook.com/100083836694023/posts/pfbid02vkjhNnxHv4pNK9YhjGcxfui4kM7d916cZivrCT7uLwqh5TeeyRycnhVmxg61zMWEl/?app=fbl
+number_of_times = 100
+frequency = 100
+message = Legit
 
 # -----------------  INITIALIZE CHROMEDRIVER  ---------------------- #
 
